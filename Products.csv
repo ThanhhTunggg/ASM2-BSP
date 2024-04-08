@@ -1,0 +1,101 @@
+ProductID,Name,Category,Price,Quantity
+1,iPhone 12,Electronics,$999,10
+2,Samsung Galaxy S21,Electronics,$899,15
+3,MacBook Pro,Electronics,1999,5
+4,Dell XPS 15,Laptops,$1499,8
+5,PlayStation 5,Gaming Consoles,499,20
+6,Xbox Series X,Gaming Consoles,$499,15
+7,Canon EOS R6,Cameras,2499,3
+8,Sony A7 III,Cameras,1999,5
+9,Apple Watch Series 7,Smartwatches,399,12
+10,Samsung Galaxy Watch 4,Smartwatches,299,10
+11,Fitbit Charge 5,Fitness Trackers,179,25
+12,Garmin Forerunner 945,Fitness Trackers,599,5
+13,Bose QuietComfort 35 II,Headphones,299,8
+14,Sony WH-1000XM4,Headphones,349,10
+15,Apple AirPods Pro,Earphones,249,15
+16,Samsung Galaxy Buds Pro,Earphones,199,20
+17,LG CX OLED TV,Televisions,1999,4
+18,Sony X900H TV,Televisions,1499,6
+19,Amazon Echo Dot 4th Gen,Smart Speakers,49,30
+20,Google Nest Audio,Smart Speakers,99,25
+21,GoPro Hero 9,Action Cameras,449,5
+22,DJI Mavic Air 2,Drones,799,3
+23,Kindle Paperwhite,E-Readers,129,20
+24,iPad Air,Tablets,599,8
+25,Samsung Galaxy Tab S7,Tablets,649,10
+26,Logitech G502 Hero,Computer Accessories,79,15
+27,Razer BlackWidow Elite,Computer Accessories,169,8
+28,Microsoft Surface Pro 7,Tablets,999,5
+29,HP Spectre x360,Laptops,1299,6
+30,Nintendo Switch,Gaming Consoles,299,20
+31,Fitbit Versa 3,Smartwatches,229,15
+32,Apple TV 4K,Streaming Devices,179,10
+33,Roku Ultra,Streaming Devices,99,20
+34,Sony WH-1000XM3,Headphones,299,8
+35,Bose SoundLink Revolve,Bluetooth Speakers,199,12
+36,JBL Flip 5,Bluetooth Speakers,119,15
+37,Canon EOS 90D,Cameras,1199,4
+38,Sony RX100 VII,Cameras,1299,3
+39,Apple HomePod Mini,Smart Speakers,99,25
+40,Sonos One,Smart Speakers,199,10
+41,Fitbit Inspire 2,Fitness Trackers,99,30
+42,Garmin Fenix 6,Fitness Trackers,599,5
+43,Sennheiser HD 660 S,Headphones,499,6
+44,Bose QuietComfort Earbuds,Earphones,279,8
+45,Jabra Elite 85t,Earphones,229,12
+46,Samsung Q90T TV,Televisions,2499,3
+47,LG C1 OLED TV,Televisions,2299,5
+48,Amazon Echo Show 10,Smart Displays,249,8
+49,Google Nest Hub Max,Smart Displays,229,10
+50,DJI Mavic Mini,Drones,399,15
+51,GoPro Hero 8,Action Cameras,349,5
+52,Kindle Oasis,E-Readers,279,10
+53,iPad Pro,Tablets,1099,6
+54,Microsoft Surface Laptop 4,Laptops,1299,5
+55,PlayStation 4,Gaming Consoles,299,20
+56,Xbox One X,Gaming Consoles,499,10
+57,Fitbit Charge 4,Fitness Trackers,149,25
+58,Garmin Venu Sq,Fitness Trackers,199,12
+59,Sony WH-1000XM2,Headphones,349,8
+60,Bose SoundSport Free,Earphones,199,15
+61,Apple TV HD,Streaming Devices,149,10
+62,Roku Streaming Stick+,Streaming Devices,49,25
+63,Canon EOS M50 II,Cameras,699,8
+64,Sony A6400,Cameras,899,5
+65,Apple HomePod,Smart Speakers,299,6
+66,Sonos Play:5,Smart Speakers,499,3
+67,Ring Video Doorbell 4,Smart Home,199,10
+68,Google Nest Hello,Smart Home,229,8
+69,DJI Phantom 4 Pro V2.0,Drones,1499,3
+70,GoPro Hero 7,Action Cameras,299,5
+71,Kindle, E-Readers,79,20
+72,Samsung Galaxy Tab A,Tablets,199,8
+73,Logitech MX Master 3,Computer Accessories,99,15
+74,Razer DeathAdder V2,Computer Accessories,69,10
+75,Microsoft Surface Go 3,Tablets,599,5
+76,HP Envy x360,Laptops,899,6
+77,Nintendo Switch Lite,Gaming Consoles,199,20
+78,Fitbit Versa 2,Smartwatches,179,15
+79,Apple TV 4th Gen,Streaming Devices,149,10
+80,Roku Express,Streaming Devices,29,25
+81,Sony Alpha a7 III,Cameras,1999,8
+82,Canon EOS Rebel T7i,Cameras,799,5
+83,Amazon Echo Dot 3rd Gen,Smart Speakers,29,30
+84,Google Nest Mini,Smart Speakers,49,25
+85,DJI Mini 2,Drones,449,15
+86,GoPro Hero 6,Action Cameras,299,5
+87,Kindle Voyage,E-Readers,199,10
+88,iPad,Tablets,329,6
+89,HP Pavilion,Gaming Laptops,999,5
+90,PlayStation 3,Gaming Consoles,249,10
+91,Xbox 360,Gaming Consoles,199,8
+92,Fitbit Inspire HR,Fitness Trackers,99,25
+93,Garmin Forerunner 245,Fitness Trackers,299,12
+94,Sony WH-CH710N,Headphones,199,8
+95,Bose SoundLink Around-Ear II,Headphones,229,10
+96,Apple AirPods,Earphones,$159,15
+97,Samsung Galaxy Buds,Earphones,$129,20
+98,LG NanoCell TV,Televisions,1299,4
+99,Sony X950H TV,Televisions,1799,6
+100,Amazon Echo,Smart Speakers,99,25
